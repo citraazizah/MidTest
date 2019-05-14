@@ -1,0 +1,8 @@
+validation model data iris
+.
+step :
+1. membaca data iris
+2. lakukan normalisasi
+3. procesing knn (k = 3)
+4. validation model dengan LOO 
+5. Hitung error
